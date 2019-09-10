@@ -18,8 +18,8 @@ authors = ["Dimitris Skourtis, Shinpei Kato, Scott Brandt"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = ""
-publication_short = ""
+publication = "21st International Symposium on High-Performance Parallel and Distributed Computing"
+publication_short = "HPDC '12"
 
 # Abstract and optional shortened version.
 abstract = "Many storage systems are shared by multiple clients with different types of workloads and performance targets. To achieve performance targets without over-provisioning, a system must provide isolation between clients. Throughput-based reservations are challenging due to the mix of workloads and the stateful nature of disk drives, leading to low reservable throughput, while existing utilization-based solutions require specialized I/O scheduling for each device in the storage system. <br/> <br/> Qbox is a new utilization-based approach for generic black box storage systems that enforces utilization (and, indirectly, throughput) requirements and provides isolation between clients, without specializedlow-level I/O scheduling. Our experimental results show that Qbox provides good isolation and achieves the target utilizations of its clients."
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.709.4303&rep=rep1&type=pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
