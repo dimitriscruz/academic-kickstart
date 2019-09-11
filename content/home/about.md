@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Storage Systems",
-    "Data Privacy"
+    "Data Management"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -29,6 +29,6 @@ weight = 5
 
 # Biography
 
-I am a Research Staff Member in the Storage Systems Research group at IBM Research in Almaden. Prior to that I worked on resource management and scheduling at VMware. In 2014, I completed my Ph.D. focusing on flash storage and predictable performance. I was a member of the Systems Research Lab at the Department of Computer Science, University of California, Santa Cruz.
+I am a Research Staff Member in the Storage Systems Research group at IBM Research in Almaden. Prior to that I worked on resource management and scheduling at VMware. In 2014, I completed my Ph.D. focusing on flash storage and predictable performance. I was a member of the Systems Research Lab at the Department of Computer Science, University of California, Santa Cruz. Prior to my Ph.D. studies, in 2008, I received a Master in Mathematics (M.Math) from the University of St. Andrews in Scotland.
 
-My research is focused on providing quality-of-service (QoS) for storage systems. Recently, I've been working on improving the performance consistency of flash storage. Prior to that, I worked on real-time scheduling for CPU multi-processors. Besides systems, I have an interest and experience in machine learning theory and  its applications on the web. Prior to my Ph.D. studies, in 2008, I received a Master in Mathematics (M.Math) from the University of St. Andrews in Scotland.
+My current research is around data storage and management with an emphasis on cloud-native environments.
