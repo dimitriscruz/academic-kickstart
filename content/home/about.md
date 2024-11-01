@@ -29,6 +29,6 @@ weight = 5
 
 # Biography
 
-I am a Research Staff Member in the Storage Systems Research group at IBM Research in Almaden. Prior to that I worked on resource management and scheduling at VMware. In 2014, I completed my Ph.D. focusing on flash storage and predictable performance. I was a member of the Systems Research Lab at the Department of Computer Science, University of California, Santa Cruz. Prior to my Ph.D. studies, in 2008, I received a Master in Mathematics (M.Math) from the University of St. Andrews in Scotland.
+I am a researcher and engineer, currently exploring problems around AI. I am interested in infrastructure challenges and scalability (cost and performance). I have been fortunate enough to work across the stack and I enjoy building products that take advantage of that. When not thinking of systems performance, I visit the consumer application layer - trying to make the world a better place?
 
-My current research is around data storage and management with an emphasis on cloud-native environments.
+Previously, I was a lead engineer at a startup incubator working on AI infrastructure and image generation. Prior to that I was at Redpanda building the cloud offering. I have been a Research Staff Member in the Storage Systems Research group at IBM Research in Almaden. Prior to that I worked on resource management and scheduling at VMware. In 2014, I completed my Ph.D. focusing on flash storage and predictable performance. I was a member of the Systems Research Lab at the Department of Computer Science, University of California, Santa Cruz. Prior to my Ph.D. studies, in 2008, I received a Master in Mathematics (M.Math) from the University of St. Andrews in Scotland.
